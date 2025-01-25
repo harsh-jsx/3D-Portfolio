@@ -234,8 +234,8 @@ const experiences = [
   //   ],
   // },
   {
-    title: "Frontend Developer Intern",
-    company_name: "Intern at Curowell Healthcare Private Ltd",
+    title: "Full stack developer",
+    company_name: "HzIndia",
     icon: "/assets/company/curowell-logo.svg",
     iconBg: "#E6DEDD",
     date: "November 2023",
@@ -247,13 +247,13 @@ const experiences = [
     ],
   },
   {
-    title: "Full Stack Developer Intern",
-    company_name: "Intern at DRDO CABS",
+    title: "Discord Bot developer",
+    company_name: "Skynet",
     icon: "/assets/company/drdo-cabs.png",
     iconBg: "#E6DEDD",
     date: "November 2023",
     points: [
-      "Developed a Facility Bookings Manager for DRDO CABS using TypeScript, React, Node.js, Express, Prisma, and MySQL within a month.",
+      "Developed a Bot using TypeScript, Node.js, Express, Prisma, and MySQL within a month.",
       "Actively addressed client issues and queries, ensuring seamless integration with their platform and local cluster system.",
       "Led the design and implementation of the frontend, providing a user-friendly interface for efficient facility management.",
       "Collaborated with a backend intern throughout the internship to deliver a comprehensive solution tailored to DRDO CABS's needs.",
@@ -501,22 +501,18 @@ const socials = [
   {
     id: "github",
     icon: <GithubIcon />,
-    link: "https://github.com/Shivam-Sharma-1",
+    link: "https://github.com/harsh-jsx",
   },
-  {
-    id: "linkedin",
-    icon: <LinkedInIcon />,
-    link: "https://www.linkedin.com/in/shivamsharma77607",
-  },
+
   {
     id: "x",
     icon: <XIcon />,
-    link: "https://twitter.com/Shivam_1_Sharma",
+    link: "https://twitter.com/harshdoesdev",
   },
   {
     id: "instagram",
     icon: <InstagramIcon />,
-    link: "https://www.instagram.com/_.shivam._.here._",
+    link: "https://www.instagram.com/harshh.tsx",
   },
 ];
 
