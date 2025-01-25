@@ -58,12 +58,7 @@ export default function App({ Component, pageProps }) {
           href="/assets/icons/favicon/apple-touch-icon.png"
         />
         <link rel="icon" type="image/png" sizes="32x32" />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="16x16"
-          href="/assets/icons/favicon/favicon-16x16.png"
-        />
+        <link rel="icon" type="image/png" sizes="16x16" />
         <link rel="manifest" href="/assets/icons/favicon/site.webmanifest" />
       </Head>
 
