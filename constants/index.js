@@ -330,8 +330,6 @@ const projects = [
     ],
     image:
       "https://res.cloudinary.com/dqiqi75hm/image/upload/v1734187202/quickedit/dp6y8s8dstqfpq7svmj5.png",
-    source_code_link: "https://github.com/Shivam-Sharma-1/QuickEdit",
-    deployed_link: "https://quick-edit-app.vercel.app",
   },
   {
     name: "FigPro",
@@ -360,8 +358,6 @@ const projects = [
       },
     ],
     image: "/assets/projects/fig-pro.png",
-    source_code_link: "https://github.com/Shivam-Sharma-1/FigPro",
-    deployed_link: "https://fig-pro-github.vercel.app",
   },
   // {
   //   name: "GDSC Website",
@@ -420,10 +416,6 @@ const projects = [
       },
     ],
     image: "/assets/projects/facility-manager.png",
-    source_code_link:
-      "https://github.com/Shivam-Sharma-1/Facility-Management-System",
-    deployed_link:
-      "https://github.com/Shivam-Sharma-1/Facility-Management-System?tab=readme-ov-file#demo",
   },
   // {
   //   name: "Netflix Clone",

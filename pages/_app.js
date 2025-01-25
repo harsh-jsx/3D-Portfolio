@@ -57,12 +57,7 @@ export default function App({ Component, pageProps }) {
           sizes="180x180"
           href="/assets/icons/favicon/apple-touch-icon.png"
         />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="32x32"
-          href="/assets/icons/favicon/favicon-32x32.png"
-        />
+        <link rel="icon" type="image/png" sizes="32x32" />
         <link
           rel="icon"
           type="image/png"
