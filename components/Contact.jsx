@@ -40,8 +40,8 @@ function Contact() {
 
     emailjs
       .send(
-        process.env.NEXT_PUBLIC_SERVICE_ID,
-        process.env.NEXT_PUBLIC_TEMPLATE_ID,
+        "service_5q5qqr9",
+        "template_omerm6l",
         {
           from_name: DOMPurify.sanitize(form.name),
           to_name: "Harsh",
@@ -49,7 +49,7 @@ function Contact() {
           to_email: "harshh.tsx@gmail.com",
           message: DOMPurify.sanitize(form.message),
         },
-        process.env.NEXT_PUBLIC_EMAILJS_KEY
+        "qqtzycs61FniSNL1R"
       )
       .then(
         () => {
