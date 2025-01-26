@@ -44,7 +44,6 @@ export default function App({ Component, pageProps }) {
         <meta property="og:image:height" content="612" />
         <meta property="og:url" content={url} />
         <meta property="og:type" content="website" />
-        <script src="https://smtpjs.com/v3/smtp.js"></script>
 
         <meta property="twitter:image" content={avatar} />
         <meta property="twitter:card" content="summary_large_image" />
