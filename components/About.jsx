@@ -28,15 +28,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I&apos;m Harsh, a passionate web developer and problem solver.
-          Currently, I&apos;m the Tech Team Lead at GDSC MVJCE, and I&apos;m
-          pursuing a B.E. degree in Computer Science and Engineering at MVJ
-          College Of Engineering in Bengaluru, India, with an expected
-          graduation year of 2025. I&apos;m a software developer with experience
-          in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks
-          such as React, Node.js, Next.js, React-Three-Fiber, and Three.js. My
-          knowledge extends to fundamental data structures and algorithms,
-          making me well-versed in frontend web development.
+          Hello! I&apos;m Harsh,I am an independent software developer based in India with expertise in building scalable and efficient solutions. My technical skill set includes TypeScript, JavaScript, React, Python, C++, C#, and Java. With a passion for clean code and innovative problem-solving, I enjoy creating web and software applications that combine functionality with great user experiences.
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
